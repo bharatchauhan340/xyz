@@ -1,0 +1,15 @@
+#maindiv:hover {
+  background-color: #060606;
+  color: rgb(189, 199, 199);
+  padding-top: 0.5%;
+  padding-bottom: 0.5%;
+  }
+
+#maindiv {
+    background-color: rgb(1, 54, 60);
+    color: bisque;
+  }
+#but:hover {
+    color: bisque;
+    font-weight: bold;
+}
